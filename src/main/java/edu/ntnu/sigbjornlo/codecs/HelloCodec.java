@@ -1,4 +1,4 @@
-package edu.ntnu.sigbjornlo.codecs.hello;
+package edu.ntnu.sigbjornlo.codecs;
 
 import org.apache.lucene.codecs.FilterCodec;
 import org.apache.lucene.codecs.lucene53.Lucene53Codec;

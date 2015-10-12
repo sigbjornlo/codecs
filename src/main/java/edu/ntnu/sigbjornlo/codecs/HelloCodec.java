@@ -8,6 +8,6 @@ import org.apache.lucene.codecs.lucene53.Lucene53Codec;
  */
 public class HelloCodec extends FilterCodec {
     public HelloCodec() {
-        super("HelloCodec", new Lucene53Codec());
+        super("Hello", new Lucene53Codec());
     }
 }
